@@ -8,7 +8,7 @@ This project was developed incrementally to strengthen practical skills in Pytho
 
 ---
 ## Application Preview
-![Task Management System](Screenshot 2026-10-21 at 4.50.39 PM.png)
+![Task Management System](images/task-manager.png)
 ---
 ## Project Overview
 
