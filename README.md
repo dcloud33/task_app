@@ -7,7 +7,9 @@ The application allows users to create tasks, add and manage subtasks, update co
 This project was developed incrementally to strengthen practical skills in Python application design, relational databases, event-driven GUI development, input validation, debugging, and software organization.
 
 ---
-
+## Application Preview
+![Task Management System](Screenshot 2026-10-21 at 4.50.39 PM.png)
+---
 ## Project Overview
 
 The Task Management System began as a command-line Python application using in-memory data structures.
